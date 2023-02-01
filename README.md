@@ -1,3 +1,5 @@
+# The importance of Health Informatics in surgeries
+
 ## INTRO
 Medical informatics or health informatics is the intersection of technology and the healthcare’s system. Health informatics assists in both surgical procedures and the creation of electronic patient records and databases. As the field of health informatics and surgery has expanded over time, it has evolved into several distinct areas of study. Some notable branches of study within the realm of health informatics and surgery include clinical health informatics, health informatics and surgery, and the application of health informatics in surgical procedures.
 
