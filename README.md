@@ -22,3 +22,4 @@ Health Informatics And Surgery|OMICS International|Journal Of Health And Medical
 Journal of the American College of Surgeons 233(5):p e94-e95, November 2021. | DOI: 10.1016/j.jamcollsurg.2021.08.251
 
 
+how to add a picture: ![](file name of picture) you have to upload picture into repo
