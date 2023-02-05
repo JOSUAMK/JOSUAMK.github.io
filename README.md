@@ -5,23 +5,23 @@ The area of health informatics is expanding quickly and has completely changed h
 
 ## ADVANTAGES
 
-### **Improve the safety of the patient**
+### Improve the safety of the patient
 Improving patient safety is one of the main advantages of using health informatics in surgeries. The use of health informatics tools and systems in the operating theatre gives the surgical team immediate access to complete and correct patient data, empowering them to make decisions and lowering the possibility of medical mistakes. For instance, electronic health records (EHRs) give the surgical team access to patient data including allergies, prescriptions currently being taken, and previous operations, assisting in preventing unfavorable outcomes during surgery. The integration of health informatics in the surgical process has proven to have a positive impact on patient care and has become a crucial aspect of modern healthcare. In a study published in the Journal of Medical Systems, the use of EHRs was found to significantly reduce medical errors, improve patient safety, and increase the efficiency of surgical procedures (Kwok et al., 2014).
 
-### **Better clinical outcomes**
+### Better clinical outcomes
 Better clinical outcomes are a crucial feature of using health informatics in surgeries. The surgical team may make decisions based on the best available evidence thanks to health informatics. Additionally, it encourages process standardization, which lowers care variability and improves clinical results. For instance, decision support systems can offer in-the-moment direction during surgery, allowing the surgical team to make wise choices and deliver the greatest outcomes for patients. The use of decision support systems during surgery, according to a study published in the Journal of the American Medical Association, enhanced clinical results.
 
-### **Real-time information about the patient**
+### Real-time information about the patient
 With the use of informatics tools, team members may share information in real time and communicate clearly. This results in better patient outcomes and a quicker surgical procedure. Telemedicine technology, for instance, can be used to support remote discussions between members of the surgical team, enabling them to make deft choices and deliver well-coordinated treatment. According to a study in the Journal of Medical Systems, the use of telemedicine technology during operations greatly enhances teamwork and communication among the surgical personnel (Liu et al., 2019).
 
-### **Enable better resource management during surgery**
+### Enable better resource management during surgery
 Additionally, better resource management during surgeries is made possible by health informatics. Utilizing health informatics systems to track supplies and equipment improves resource efficiency and lowers waste. This could increase the surgical procedure's general effectiveness and cost-effectiveness. Supply chain management systems, for instance, can be used to monitor inventory levels and guarantee the availability of essential supplies and machinery. The adoption of supply chain management systems in surgeries was found to considerably improve resource management and lower healthcare expenditures, according to a study published in the Journal of Medical Systems (Kim et al., 2016).
 
 ## TOOLS 
 
 Here are 5 health informatic tools commonly used in surgery:
 
-### **Electronic Health Records (EHRs)**
+### Electronic Health Records (EHRs)
 ![EHRS](https://user-images.githubusercontent.com/115988363/216811944-60535171-1e37-4d03-803a-bab49d5b5c29.jpg)
 (Figure 1)
 
@@ -29,7 +29,7 @@ Source: Jaret, P. (2018, August 21). Electronic health records: What will it tak
 
 Digital representations of a patient's medical history, treatment options, and test results are called electronic health records (EHRs), and they are saved and updated in real-time. By providing clinicians with access to a patient's whole medical history in one place, lowering the possibility of mistakes, and enhancing communication between healthcare professionals, they are utilized to enhance patient care. As shown in figure 1.
 
-### **Computer-Assisted Surgery (CAS)** 
+### Computer-Assisted Surgery (CAS)
 ![Robotic-surgery](https://user-images.githubusercontent.com/115988363/216811773-2bd82544-5371-48ab-8c2c-0e3703d049ac.jpg)
 
 (Figure 2)
@@ -48,7 +48,7 @@ R-one is a robot that comprises two elements:
 -	Radio-protected control unit: a mobile radioprotection control station with a mobile radiation protection screen that protects medical staff from x-rays and the command unit (joysticks). With this unit, the physician remotely controls instruments in the vascular system safely and accurately.
 -	Robotic unit: comprising the robot and its articulated support arm.
 
-### **Picture Archiving and Communication Systems (PACS)**
+### Picture Archiving and Communication Systems (PACS)
 ![PACS](https://user-images.githubusercontent.com/115988363/216811859-3ff62224-5992-4691-9420-ad511fc1bc71.jpg)
 
 (Figure  4)
@@ -57,10 +57,10 @@ Source: Administrator. (n.d.). PACS systems (picture archiving and comunication 
 
 Medical images including X-rays, CT scans, and MRI images are stored and managed using Picture Archiving and Communication Systems (PACS). They enhance the speed and precision of diagnoses and treatment plans by enabling access to photos by healthcare professionals from any place. As shown in figure 4.
 
-### **Surgical Information Systems (SIS)**
+### Surgical Information Systems (SIS)
 From preoperative planning to postoperative follow-up, surgical information systems (SIS) offer a thorough, centralized approach for managing all elements of surgical treatment. They support the surgical team by giving them real-time access to patient information while also reducing errors and improving patient outcomes.
 
-### **Perioperative Information Management Systems (PIMS)**
+### Perioperative Information Management Systems (PIMS)
 ![pims1](https://user-images.githubusercontent.com/115988363/216818131-ea81ee3d-cffd-4521-9414-c91e4b130da0.jpg)
 
 (Figure 5)
