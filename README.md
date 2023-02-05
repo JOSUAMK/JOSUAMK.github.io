@@ -53,12 +53,12 @@ In conclusion, health informatics has established itself as a crucial component 
 
 ## REFERENCES
 
-Kwok, P., Lee, K., & Chan, T. (2014). The impact of electronic health records on medical errors and patient safety in surgeries. Journal of Medical Systems, 38(12), 1593-1601.
+1- Kwok, P., Lee, K., & Chan, T. (2014). The impact of electronic health records on medical errors and patient safety in surgeries. Journal of Medical Systems, 38(12), 1593-1601.
 
-Vickery, A., Wilson, B., & Johnson, R. (2018). The impact of decision support systems on clinical outcomes and healthcare costs in surgeries. Journal of the American Medical Association, 320(11), 1147-1154.
+2- Vickery, A., Wilson, B., & Johnson, R. (2018). The impact of decision support systems on clinical outcomes and healthcare costs in surgeries. Journal of the American Medical Association, 320(11), 1147-1154.
 
-Liu, J., Zhang, Y., & Chen, L. (2019). The impact of telemedicine technology on collaboration and communication between members of the surgical team. Journal of Medical Systems, 43(5), 234
+3- Liu, J., Zhang, Y., & Chen, L. (2019). The impact of telemedicine technology on collaboration and communication between members of the surgical team. Journal of Medical Systems, 43(5), 234
 
-Kim, J., Lee, J., & Kim, D. (2016). The impact of supply chain management systems on resource management and healthcare costs in surgeries. Journal of Medical Systems, 40(6), 195.
+4- Kim, J., Lee, J., & Kim, D. (2016). The impact of supply chain management systems on resource management and healthcare costs in surgeries. Journal of Medical Systems, 40(6), 195.
 
 
