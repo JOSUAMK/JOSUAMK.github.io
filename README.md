@@ -31,12 +31,15 @@ Digital representations of a patient's medical history, treatment options, and t
 
 ![Robotic-surgery](https://user-images.githubusercontent.com/115988363/216811773-2bd82544-5371-48ab-8c2c-0e3703d049ac.jpg)
 
-Modern technology is used by Computer-Assisted Surgery (CAS) devices to provide real-time, three-dimensional imagery during surgical procedures. These tools support surgeons in difficult surgery planning and execution with better accuracy and precision, lowering risk of complications and enhancing patient outcomes.For example, the use in surgery R-one.
+Modern technology is used by Computer-Assisted Surgery (CAS) devices to provide real-time, three-dimensional imagery during surgical procedures. These tools support surgeons in difficult surgery planning and execution with better accuracy and precision, lowering risk of complications and enhancing patient outcomes.For example, the use in surgery of R-one.
 
+![R-one](https://user-images.githubusercontent.com/115988363/216813551-8631353d-4761-4a6e-bdea-686a6bd6f99b.jpg)
 
 R-one is a robot that comprise two elements:
--Radio-protected control unit: a mobile radioprotection control station with a mobile radiation protection screen that protects medical staff from x-rays, and the command unit (joystick). With this unit, the physician remotely controls instruments in the vascular system safely and accurately.
+
+- Radio-protected control unit: a mobile radioprotection control station with a mobile radiation protection screen that protects medical staff from x-rays, and the command unit (joysticks). With this unit, the physician remotely controls instruments in the vascular system safely and accurately
 - Robotic unit: comprising the robot and its articulated support arm
+
 It target's coronary and peripheral artery diseases and strokes.
 
 
