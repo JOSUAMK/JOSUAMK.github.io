@@ -23,14 +23,26 @@ Here are 5 health informatic tools commonly used in surgery:
 
 ### **Electronic Health Records (EHRs)**
 ![EHRS](https://user-images.githubusercontent.com/115988363/216811944-60535171-1e37-4d03-803a-bab49d5b5c29.jpg)
+(Figure 1)
 
-Digital representations of a patient's medical history, treatment options, and test results are called electronic health records (EHRs), and they are saved and updated in real-time. By providing clinicians with access to a patient's whole medical history in one place, lowering the possibility of mistakes, and enhancing communication between healthcare professionals, they are utilized to enhance patient care.
+Source: Jaret, P. (2018, August 21). Electronic health records: What will it take to make them work? AAMC. Retrieved January 17, 2023, from https://www.aamc.org/news-insights/electronic-health-records-what-will-it-take-make-them-work 
+
+Digital representations of a patient's medical history, treatment options, and test results are called electronic health records (EHRs), and they are saved and updated in real-time. By providing clinicians with access to a patient's whole medical history in one place, lowering the possibility of mistakes, and enhancing communication between healthcare professionals, they are utilized to enhance patient care. As shown in figure 1.
 
 ### **Computer-Assisted Surgery (CAS)** 
 ![Robotic-surgery](https://user-images.githubusercontent.com/115988363/216811773-2bd82544-5371-48ab-8c2c-0e3703d049ac.jpg)
 
-Modern technology is used by Computer-Assisted Surgery (CAS) devices to provide real-time, three-dimensional imagery during surgical procedures. These tools support surgeons in difficult surgery planning and execution with better accuracy and precision, lowering risk of complications and enhancing patient outcomes—for example, the use in surgery of R-one that is used to treat coronary and peripheral artery diseases and strokes.
+(Figure 2)
+
+Source: Editorial. (2022, September 6). Robotic surgery vs. Computer-Assisted Surgery (CAS). RoboticsBiz. Retrieved January 17, 2023, from https://roboticsbiz.com/robotic-surgery-vs-computer-assisted-surgery-cas/
+
+Modern technology is used by Computer-Assisted Surgery (CAS) devices to provide real-time, three-dimensional imagery during surgical procedures. As shown in figure 2. These tools support surgeons in difficult surgery planning and execution with better accuracy and precision, lowering risk of complications and enhancing patient outcomes—for example, the use in surgery of R-one that is used to treat coronary and peripheral artery diseases and strokes. As shown in figure 3.
+
 ![R-one](https://user-images.githubusercontent.com/115988363/216813551-8631353d-4761-4a6e-bdea-686a6bd6f99b.jpg)
+
+(Figure 3)
+
+Source: R-one robotic device for Interventional Cardiology Procedures. Medical Device Network. (2019, March 15). Retrieved January 17, 2023, from https://www.medicaldevice-network.com/projects/r-one-robotic-device/ 
 
 R-one is a robot that comprises two elements:
 -	Radio-protected control unit: a mobile radioprotection control station with a mobile radiation protection screen that protects medical staff from x-rays and the command unit (joysticks). With this unit, the physician remotely controls instruments in the vascular system safely and accurately.
@@ -39,17 +51,23 @@ R-one is a robot that comprises two elements:
 ### **Picture Archiving and Communication Systems (PACS)**
 ![PACS](https://user-images.githubusercontent.com/115988363/216811859-3ff62224-5992-4691-9420-ad511fc1bc71.jpg)
 
-Medical images including X-rays, CT scans, and MRI images are stored and managed using Picture Archiving and Communication Systems (PACS). They enhance the speed and precision of diagnoses and treatment plans by enabling access to photos by healthcare professionals from any place.
+(Figure  4)
+
+Source: Administrator. (n.d.). PACS systems (picture archiving and comunication system). Biotexray. Retrieved January 17, 2023, from http://www.biotexray.gr/en/products/pacs-systems-archiving-system 
+
+Medical images including X-rays, CT scans, and MRI images are stored and managed using Picture Archiving and Communication Systems (PACS). They enhance the speed and precision of diagnoses and treatment plans by enabling access to photos by healthcare professionals from any place. As shown in figure 4.
 
 ### **Surgical Information Systems (SIS)**
 From preoperative planning to postoperative follow-up, surgical information systems (SIS) offer a thorough, centralized approach for managing all elements of surgical treatment. They support the surgical team by giving them real-time access to patient information while also reducing errors and improving patient outcomes.
 
 ### **Perioperative Information Management Systems (PIMS)**
-
 ![pims1](https://user-images.githubusercontent.com/115988363/216818131-ea81ee3d-cffd-4521-9414-c91e4b130da0.jpg)
 
+(Figure 5)
 
-The management of the entire perioperative process, from the pre-operative stage through the post-operative stage, is made possible by perioperative information management systems (PIMS). Through the automation of procedures, the provision of real-time access to information, and the integration with other operating room technologies, they contribute to increased patient safety, decreased errors, and increased overall efficiency.
+Source: Perioperative Information Management System. CoreMobileInc. (n.d.). Retrieved        January 17, 2023, from https://www.coremobileinc.com/PIMScm.php
+
+The management of the entire perioperative process, from the pre-operative stage through the post-operative stage, is made possible by perioperative information management systems (PIMS). Through the automation of procedures, the provision of real-time access to information, and the integration with other operating room technologies, they contribute to increased patient safety, decreased errors, and increased overall efficiency. As shown in figure 5.
 
 ## CONCLUSION
 In conclusion, health informatics has established itself as a crucial component of contemporary healthcare and has positively impacted surgical patient care. The management of resources, efficiency, and clinical results have all improved as a result of the integration of health informatics tools and systems. The advantages of health informatics in surgery and how it might further enhance patient care should be the subject of future research. 
