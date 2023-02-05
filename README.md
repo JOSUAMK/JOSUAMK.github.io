@@ -37,8 +37,8 @@ Modern technology is used by Computer-Assisted Surgery (CAS) devices to provide 
 
 R-one is a robot that comprise two elements:
 
-- Radio-protected control unit: a mobile radioprotection control station with a mobile radiation protection screen that protects medical staff from x-rays, and the command unit (joysticks). With this unit, the physician remotely controls instruments in the vascular system safely and accurately
-- Robotic unit: comprising the robot and its articulated support arm
+- Radio-protected control unit: a mobile radioprotection control station with a mobile radiation protection screen that protects medical staff from x-rays, and the command unit (joysticks). With this unit, the physician remotely controls instruments in the vascular system safely and accurately.
+- Robotic unit: comprising the robot and its articulated support arm.
 
 It target's coronary and peripheral artery diseases and strokes.
 
