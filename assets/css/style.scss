@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+.btn {
+  display: none important;
+}
 .page-header {
     background-image: linear-gradient( to right, #00d4ff, #093379);
    
