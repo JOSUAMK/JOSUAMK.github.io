@@ -22,6 +22,8 @@ Additionally, better resource management during surgeries is made possible by he
 Here are 5 health informatic tools commonly used in surgery:
 
 ### Electronic Health Records (EHRs)
+![Robotic-surgery](https://user-images.githubusercontent.com/115988363/216811773-2bd82544-5371-48ab-8c2c-0e3703d049ac.jpg)
+
 Digital representations of a patient's medical history, treatment options, and test results are called electronic health records (EHRs), and they are saved and updated in real-time. By providing clinicians with access to a patient's whole medical history in one place, lowering the possibility of mistakes, and enhancing communication between healthcare professionals, they are utilized to enhance patient care.
 
 ### Computer-Assisted Surgery (CAS) systems
