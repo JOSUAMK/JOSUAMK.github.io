@@ -46,6 +46,7 @@ From preoperative planning to postoperative follow-up, surgical information syst
 
 ### **Perioperative Information Management Systems (PIMS)**
 
+![pims1](https://user-images.githubusercontent.com/115988363/216818131-ea81ee3d-cffd-4521-9414-c91e4b130da0.jpg)
 
 
 The management of the entire perioperative process, from the pre-operative stage through the post-operative stage, is made possible by perioperative information management systems (PIMS). Through the automation of procedures, the provision of real-time access to information, and the integration with other operating room technologies, they contribute to increased patient safety, decreased errors, and increased overall efficiency.
