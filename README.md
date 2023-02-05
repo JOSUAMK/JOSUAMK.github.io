@@ -1,6 +1,6 @@
 # The importance of Health Informatics in surgeries
 
-## INTRO
+## INTRODUCTION
 The area of health informatics is expanding quickly and has completely changed how healthcare is organized and provided. Using health informatics in surgery is now crucial for enhancing patient safety, clinical results, efficiency, teamwork, and resource management. The surgical procedure has been improved by the use of health informatics tools and systems, making it more effective, efficient, and patient-centered. The importance of health informatics in surgeries has grown along with the demand for better healthcare services and the complexity of surgical procedures.
 
 ## ADVANTAGES
