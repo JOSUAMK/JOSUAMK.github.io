@@ -22,6 +22,9 @@ Additionally, better resource management during surgeries is made possible by he
 Here are 5 health informatic tools commonly used in surgery:
 
 ### Electronic Health Records (EHRs)
+
+![EHRS](https://user-images.githubusercontent.com/115988363/216811944-60535171-1e37-4d03-803a-bab49d5b5c29.jpg)
+
 Digital representations of a patient's medical history, treatment options, and test results are called electronic health records (EHRs), and they are saved and updated in real-time. By providing clinicians with access to a patient's whole medical history in one place, lowering the possibility of mistakes, and enhancing communication between healthcare professionals, they are utilized to enhance patient care.
 
 ### Computer-Assisted Surgery (CAS) systems
@@ -34,13 +37,13 @@ Modern technology is used by Computer-Assisted Surgery (CAS) devices to provide 
 
 ![PACS](https://user-images.githubusercontent.com/115988363/216811859-3ff62224-5992-4691-9420-ad511fc1bc71.jpg)
 
-
 Medical images including X-rays, CT scans, and MRI images are stored and managed using Picture Archiving and Communication Systems (PACS). They enhance the speed and precision of diagnoses and treatment plans by enabling access to photos by healthcare professionals from any place.
 
 ### Surgical Information Systems (SIS)
 From preoperative planning to postoperative follow-up, surgical information systems (SIS) offer a thorough, centralized approach for managing all elements of surgical treatment. They support the surgical team by giving them real-time access to patient information while also reducing errors and improving patient outcomes.
 
 ### Perioperative Information Management Systems (PIMS)
+
 The management of the entire perioperative process, from the pre-operative stage through the post-operative stage, is made possible by perioperative information management systems (PIMS). Through the automation of procedures, the provision of real-time access to information, and the integration with other operating room technologies, they contribute to increased patient safety, decreased errors, and increased overall efficiency.
 
 ## CONCLUSION
