@@ -1,5 +1,5 @@
-# The importance of Health Informatics in surgeries
-![Title](https://user-images.githubusercontent.com/115988363/216838138-e73591bd-7f93-4da7-bc0c-73ac4de577ae.jpg)
+
+![Title](https://user-images.githubusercontent.com/115988363/216838138-e73591bd-7f93-4da7-bc0c-73ac4de577ae.jpg)   
 (Figure 1)
 
 ## INTRODUCTION
