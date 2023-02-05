@@ -2,6 +2,8 @@
 ![Title](https://user-images.githubusercontent.com/115988363/216838138-e73591bd-7f93-4da7-bc0c-73ac4de577ae.jpg)   
 (Figure 1)
 
+Source: Insights, S. M. (2020, April 7). Surgery Transmission System Market Overall Study Report 2020-2027: FSN Medical Technologies, Eizo GmbH, Amimon Ltd, NDS Surgical Imaging, video surgery, Simeon Medical, VIMS SAS, Cell Beans Healthcare Informatics, live stream communication, demo AV Servi. openPR.com. Retrieved January 17, 2023, from https://www.openpr.com/news/2001750/surgery-transmission-system-market-overall-study-report 
+
 ## INTRODUCTION
 The area of health informatics is expanding quickly and has completely changed how healthcare is organized and provided. Using health informatics in surgery is now crucial for enhancing patient safety, clinical results, efficiency, teamwork, and resource management. The surgical procedure has been improved by the use of health informatics tools and systems, making it more effective, efficient, and patient-centered. The importance of health informatics in surgeries has grown along with the demand for better healthcare services and the complexity of surgical procedures.
 
