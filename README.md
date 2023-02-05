@@ -17,9 +17,9 @@ With the use of informatics tools, team members may share information in real ti
 ### Enable better resource management during surgery
 Additionally, better resource management during surgeries is made possible by health informatics. Utilizing health informatics systems to track supplies and equipment improves resource efficiency and lowers waste. This could increase the surgical procedure's general effectiveness and cost-effectiveness. Supply chain management systems, for instance, can be used to monitor inventory levels and guarantee the availability of essential supplies and machinery. The adoption of supply chain management systems in surgeries was found to considerably improve resource management and lower healthcare expenditures, according to a study published in the Journal of Medical Systems (Kim et al., 2016).
 
-## TOOLS 
+## TOOLS AND SYSTEMS
 
-Here are 5 health informatic tools commonly used in surgery:
+Here are 5 health informatic tools and sytems commonly used in surgery:
 
 ### Electronic Health Records (EHRs)
 
