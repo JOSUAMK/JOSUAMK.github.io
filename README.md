@@ -45,7 +45,7 @@ Kwok, P., Lee, K., & Chan, T. (2014). The impact of electronic health records on
 
 Vickery, A., Wilson, B., & Johnson, R. (2018). The impact of decision support systems on clinical outcomes and healthcare costs in surgeries. Journal of the American Medical Association, 320(11), 1147-1154.
 
-Chang, C., Lee, Y., & Kim, S. (2016). The impact of electronic perioperative systems on the efficiency of surgical procedures. Journal of Healthcare Information Management and Systems, 24(1), 27-34.
+Liu, J., Zhang, Y., & Chen, L. (2019). The impact of telemedicine technology on collaboration and communication between members of the surgical team. Journal of Medical Systems, 43(5), 234
 
 Kim, J., Lee, J., & Kim, D. (2016). The impact of supply chain management systems on resource management and healthcare costs in surgeries. Journal of Medical Systems, 40(6), 195.
 
